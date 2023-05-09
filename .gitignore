@@ -174,3 +174,4 @@ embedding/*
 pyrightconfig.json
 
 *.bin
+*.h5
